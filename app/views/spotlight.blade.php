@@ -91,18 +91,18 @@ Gerald Chow will graduate from Roux Academy this spring with a BFA and a paintin
 <h3>Admissions &amp; Programs</h3>
   <div class="col1">
   <ul>
-  <li><a href="degrees.htm" title="Degree programs">Degree Programs</a></li>
-  <li><a href="catalog.htm" title="course catalog">Course Catalog</a></li>
-  <li><a href="fine_art.htm" title="fine art programs">Fine Art Programs</a></li>
-  <li><a href="design.htm" title="design concentration">Design Concentration</a></li>
+  <li><a href="degrees.htm" title="Degree programs">Degree Programs cat1</a></li>
+  <li><a href="catalog.htm" title="course catalog">Course Catalog cat2</a></li>
+  <li><a href="fine_art.htm" title="fine art programs">Fine Art Programs cat3</a></li>
+  <li><a href="design.htm" title="design concentration">Design Concentration cat4</a></li>
   </ul>
   </div>
   <div class="col2">
   <ul>
-  <li><a href="fashion.htm" title="fashion program">Fashion Program</a></li>
-  <li><a href="product_design.htm" title="product design">Product Design</a></li>
-  <li><a href="continuing_ed.htm" title="Continuing Education">Continuing Education</a></li>
-  <li><a href="financial_aid.htm" title="tuition and financial aid">Tuition &amp; Financial Aid</a></li>
+  <li><a href="fashion.htm" title="fashion program">Fashion Program cat5</a></li>
+  <li><a href="product_design.htm" title="product design">Product Design cat6</a></li>
+  <li><a href="continuing_ed.htm" title="Continuing Education">Continuing Education cat7</a></li>
+  <li><a href="financial_aid.htm" title="tuition and financial aid">Tuition &amp; Financial Aid cat8</a></li>
   </ul>
   </div>
 </section>

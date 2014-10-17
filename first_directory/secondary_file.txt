@@ -1,0 +1,3 @@
+this is second file to test git/ And then I changed the file a little bit here.
+
+Changed in part 6
