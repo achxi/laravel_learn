@@ -1,1 +1,1 @@
-this is my 3rd file to test git.
+this is my 3rd file to test git. And then I changed the file a little bit here.
