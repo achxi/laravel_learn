@@ -1,3 +1,0 @@
-this is my 3rd file to test git. Can't see the diff.
-
-something new is 3rd here.
