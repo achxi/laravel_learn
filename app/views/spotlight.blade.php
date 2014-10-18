@@ -108,7 +108,7 @@ Gerald Chow will graduate from Roux Academy this spring with a BFA and a paintin
 </section>
 <section class="col">
 <!-- <h3>Student Resources</h3> -->
-<h3>Starcraft 2 heart of the Swarms</h3>
+<h3>Starcraft 2 heart of the Swarms  AFTER liberty of the swings</h3>
   <div class="col1">
   <ul>
   <li><a href="campus.htm" title="Campus information">Campus Information</a></li>
