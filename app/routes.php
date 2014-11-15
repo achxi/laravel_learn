@@ -63,3 +63,5 @@ function()
 {
 	return View::make('spotlight');
 }));*/
+
+Route::resource('posts', 'PostsController', array('except' => array('show')));
