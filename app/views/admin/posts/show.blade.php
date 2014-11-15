@@ -1,0 +1,1 @@
+C:\xampp\htdocs\laravel_learn\app/views/posts/show.blade.php
